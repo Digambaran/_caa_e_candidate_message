@@ -1,0 +1,1 @@
+{"name":"e_candidate_message","type":"ui-elements","source":{"https":"https://github.com/Digambaran/_caa_e_candidate_message","ssh":"git@github.com:Digambaran/_caa_e_candidate_message.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i"}
